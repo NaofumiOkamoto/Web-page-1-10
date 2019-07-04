@@ -3,3 +3,9 @@
   margin: 0;
   box-sizing: border-box;
 }
+header{
+  background-image: url(img/logo.png);
+  background-color: #EC715F;
+  height: 70px;
+}
+
